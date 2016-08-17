@@ -1,8 +1,8 @@
 // Copy to app/scripts/config.js
 
 window.nodelistconfig = {
-	dataPath: 'https://mesh.ffnord.net/data/',
-	mapPath: 'https://mesh.ffnord.net/',
+	dataPath: 'https://mesh.nord.freifunk.net/data/',
+	mapPath: 'https://mesh.nord.freifunk.net/',
 	siteName: 'Freifunk Nord',
 	
 	nodeUpStartColor:   {h:  61, s: 100, l: 50},
